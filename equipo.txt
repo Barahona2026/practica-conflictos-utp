@@ -1,1 +1,2 @@
-
+Proyecto: Sistema de ventas UTP
+Responsable: Barahona
